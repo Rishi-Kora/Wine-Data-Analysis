@@ -1,7 +1,7 @@
 # Wine-Data-Analysis
 Exploratory Data Analysis - Wine Data
 In this repository, I have taken Wine data from UCI and I have 
-1.Merged Red and White ine datasets
+1.Merged Red and White ine datasets<br>
 2.Data Cleaning
 3.Handlling data for Missing and Null Values
 4. Removing Duplicates
