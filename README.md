@@ -9,4 +9,4 @@ In this repository, I have taken Wine data from UCI and I have <br>
 6. Normailization <br>
 7. Data Visualization<br>
 
-Fell free to download the code and data.
+Feel free to download the code and data.
